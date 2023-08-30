@@ -1,0 +1,6 @@
+torch
+torchvision
+tensorboardX
+pillow
+numpy
+opencv-contrib-python
