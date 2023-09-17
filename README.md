@@ -1,4 +1,4 @@
-# Virtual try on trail using Deep Learning 
+# Virtual try on trail using Deep Learning Neural Networks
 A Deep Learning based Fashion Recommender System using code that demonstrates the integration of PyTorch and TensorFlow to implement the CP-VTON (Cloth-Person Virtual Try-On) framework.
 
 By combining the strengths of these two industry-standard deep learning libraries, I have developed a robust solution that facilitates accurate cloth-person alignment and realistic garment fitting.
